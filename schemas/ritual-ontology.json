@@ -1,0 +1,22 @@
+{
+  "ritual_name": "Cem",
+  "structure": "The Twelve Services (On İki Hizmet)",
+  "data_objects": [
+    {
+      "order": 1,
+      "role": "Mürşid/Pir",
+      "function": "Spiritual Leadership & Justice"
+    },
+    {
+      "order": 2,
+      "role": "Rehber",
+      "function": "Guidance for the Yol (The Path)"
+    },
+    {
+      "order": 10,
+      "role": "Çerağcı",
+      "function": "Light & Awakening (The Awakening of the Flame)"
+    }
+  ],
+  "metaphor": "The Digital Mirror of the Micro-Cosmos"
+}
